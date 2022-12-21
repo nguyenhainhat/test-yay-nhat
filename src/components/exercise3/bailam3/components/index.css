@@ -1,0 +1,6 @@
+.ex3 .mantine-Image-imageWrapper {
+  background-color: white !important;
+}
+.ex3 .mantine-Image-image {
+  object-fit: contain !important;
+}
